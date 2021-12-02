@@ -1,8 +1,8 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
-#import "CTDFA.h"
+#import "Public/CTDFA.h"
 
-#import "CTDFAState.h"
+#import "Public/CTDFAState.h"
 
 @implementation CTDFA
 {

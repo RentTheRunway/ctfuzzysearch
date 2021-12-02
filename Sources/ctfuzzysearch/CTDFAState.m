@@ -1,6 +1,6 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
-#import "CTDFAState.h"
+#import "Public/CTDFAState.h"
 
 @implementation CTDFAState
 {

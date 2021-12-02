@@ -1,7 +1,7 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
 #import <Foundation/Foundation.h>
-#import "CTFuzzyMatch.h"
+#import "Public/CTFuzzyMatch.h"
 
 @interface CTFuzzyMatch (private)
 

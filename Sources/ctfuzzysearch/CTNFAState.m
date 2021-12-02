@@ -1,6 +1,6 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
-#import "CTNFAState.h"
+#import "Public/CTNFAState.h"
 
 @implementation CTNFAState
 {

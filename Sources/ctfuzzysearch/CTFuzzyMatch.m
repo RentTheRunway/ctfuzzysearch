@@ -1,6 +1,6 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
-#import "CTFuzzyMatch.h"
+#import "Public/CTFuzzyMatch.h"
 
 @implementation CTFuzzyMatch
 {

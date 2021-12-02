@@ -1,6 +1,6 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
-#import "CTIntTuple.h"
+#import "Public/CTIntTuple.h"
 
 @implementation CTIntTuple
 {

@@ -1,8 +1,8 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
-#import "CTNFA.h"
+#import "Public/CTNFA.h"
 
-#import "CTNFAState.h"
+#import "Public/CTNFAState.h"
 
 @implementation CTNFA
 {

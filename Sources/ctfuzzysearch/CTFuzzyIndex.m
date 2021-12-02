@@ -1,10 +1,10 @@
 //  Copyright (c) 2014 Christoph Wimberger. All rights reserved.
 
-#import "CTFuzzyIndex.h"
+#import "Public/CTFuzzyIndex.h"
 
-#import "CTDFA.h"
-#import "CTNFA.h"
-#import "CTIntTuple.h"
+#import "Public/CTDFA.h"
+#import "Public/CTNFA.h"
+#import "Public/CTIntTuple.h"
 #import "CTFuzzyMatch-Private.h"
 
 @implementation CTFuzzyIndex
