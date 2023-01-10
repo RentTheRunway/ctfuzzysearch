@@ -4,3 +4,8 @@
 
 #import "CTFuzzyIndex.h"
 #import "CTFuzzyMatch.h"
+#import "CTDFA.h"
+#import "CTIntTuple.h"
+#import "CTNFA.h"
+#import "CTNFAState.h"
+#import "CTDFAState.h"
